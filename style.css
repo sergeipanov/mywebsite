@@ -1,0 +1,19 @@
+.navbar {
+    font-family: 'Homemade Apple', cursive;
+    text-shadow: 1px 1px 2px #00000039;
+}
+.navbar-brand {
+    font-size: 2rem;
+    padding-top: 1rem;}
+
+.mynavbtn {
+    padding-top: 0.75em;
+}
+
+footer {
+    margin-top: 1rem;
+}
+
+.container {
+    text-shadow: 1px 1px 1px #00000039;
+}
