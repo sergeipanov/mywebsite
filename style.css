@@ -30,6 +30,9 @@ footer {
     transition: 400ms;
   }
   
+  .cookie-container p {
+      padding: 1rem:}
+
   .cookie-container.active {
     bottom: 0;
   }
