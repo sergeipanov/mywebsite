@@ -29,9 +29,6 @@ footer {
     box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39);
     transition: 400ms;
   }
-  
-  .cookie-container p {
-      padding: 3rem:}
 
   .cookie-container.active {
     bottom: 0;
